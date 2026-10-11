@@ -181,7 +181,7 @@ Use $punk-cover to create prompt-only output for this X cover, style 黑白灰�
 
 目前接入 25 种风格，包含涂鸦、笔刷、衬线、漫画、拼贴、Y2K 等字形和材料方向。完整名称及规则见 [风格目录](./skills/punk-ip-video-cover/references/style-catalog.md)，配色流程见 [照片四色](./skills/punk-ip-video-cover/references/photo-palette.md)。接入数量不代表所有风格、比例和输入都已通过出图验证；实际生成需检查身份、中文、比例和布局。
 
-安装时选择 `skills/punk-ip-video-cover/` 即可；其 `styles/` 与 `references/` 均包含在自身目录内。
+安装时选择 `skills/punk-ip-video-cover/` 即可；其 `styles/` 与 `references/` 均包含在自身目录内。独立目录同时附带[使用协议](./skills/punk-ip-video-cover/LICENSE)、完整个人使用条款、商业授权申请流程与第三方材料声明。个人非商用免费，商业使用须事先获得书面授权并支付许可费；金额与范围在商业协议中约定。
 
 ## punk-avatar
 

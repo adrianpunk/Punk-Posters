@@ -180,7 +180,7 @@ Use the same four colors extracted from my portrait, with different layouts.
 
 The library includes 25 typography and material directions, including doodles, brush lettering, serif type, comics, collage, and Y2K. See the [style catalog](./skills/punk-ip-video-cover/references/style-catalog.md) and [photo-palette workflow](./skills/punk-ip-video-cover/references/photo-palette.md). Library inclusion does not mean every style, ratio, or input has passed generation testing.
 
-Install `skills/punk-ip-video-cover/` as a self-contained skill; its style library and references live inside that directory.
+Install `skills/punk-ip-video-cover/` as a self-contained skill; its style library and references live inside that directory. It also bundles the [license](./skills/punk-ip-video-cover/LICENSE), full personal-use terms, commercial licensing process, and third-party notices. Personal non-commercial use is free; commercial use requires prior written authorization and payment, with fees and scope specified in the commercial agreement.
 
 ## punk-avatar
 
