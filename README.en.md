@@ -281,3 +281,11 @@ Third-party materials are not relicensed by this repository's license statements
 
 - Prompt design and visual direction: [@adrianpunk](https://github.com/adrianpunk) · [X](https://x.com/AdrianPunk115)
 - Repository maintenance: [@jinchenma94](https://github.com/jinchenma94) · [X](https://x.com/jinchenma_ai)
+
+## About the author
+
+AI视觉/AI小白教程<br>
+中科大硕士｜Punk Skills 作者｜3个月挣8位数<br>
+AfterNoise社群发起人
+
+[@AdrianPunk115](https://x.com/AdrianPunk115)
