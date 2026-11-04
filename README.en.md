@@ -284,6 +284,8 @@ Third-party materials are not relicensed by this repository's license statements
 
 ## About the author
 
+**Punk**
+
 AI视觉/AI小白教程<br>
 中科大硕士｜Punk Skills 作者｜3个月挣8位数<br>
 AfterNoise社群发起人
