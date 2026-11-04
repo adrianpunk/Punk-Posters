@@ -281,3 +281,11 @@ Punk Skill `v2.0.0` 及后续版本采用双轨授权：
 
 - 提示词设计与风格方向：[@adrianpunk](https://github.com/adrianpunk) · [X](https://x.com/AdrianPunk115)
 - 仓库维护：[@jinchenma94](https://github.com/jinchenma94) · [X](https://x.com/jinchenma_ai)
+
+## 关于作者
+
+AI视觉/AI小白教程<br>
+中科大硕士｜Punk Skills 作者｜3个月挣8位数<br>
+AfterNoise社群发起人
+
+[@AdrianPunk115](https://x.com/AdrianPunk115)
